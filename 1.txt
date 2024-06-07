@@ -1,2 +1,6 @@
 print('This is B2')
+<<<<<<< HEAD
 Modification in C4
+=======
+Modification in B3
+>>>>>>> B3
